@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JTWang722
+- 👋 Hi, I’m jtwang
 - 👀 I’m interested in NLP and knowledge graph.
 - 🌱 I’m currently learning AI in Southeast University, Nanjing.
 - 📫 My email is jtwang@seu.edu.cn
